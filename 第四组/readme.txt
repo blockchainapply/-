@@ -1,9 +1,12 @@
-½«chinadaily.py¡¢½âÑ¹Ö®ºóµÄnoobchain¡¢2018.xlsx¡¢text.xlsx¡¢GoogleNews-vectors-negative300-SLIM.bin.gzºÍtest.txt·ÅÖÃÔÚ×ÀÃæÉÏ
+å°†chinadaily.pyã€è§£å‹ä¹‹åçš„noobchainã€2018.xlsxã€text.xlsxã€GoogleNews-vectors-negative300-SLIM.bin.gzå’Œtest.txtæ”¾ç½®åœ¨æ¡Œé¢ä¸Š
 
-ÇëÏÈÔËĞĞchinadaily.py
-ÔÚPycharmÖĞÔËĞĞchinadaily.py ÇëÏÈimportËùÓĞµÄ°ü
-Ö®ºóÖ±½ÓÔËĞĞ¾Í¿É
+å…¶ä¸­è¯·æ³¨æ„ï¼Œå› GoogleNews-vectors-negative300-SLIM.bin.gzå¤§äº25Mæ— æ³•ä¸Šä¼ ï¼Œå› æ­¤å°†å…¶ä¸‹è½½é“¾æ¥æ”¾åœ¨ç½‘ç›˜ä¸­ï¼Œè¯·è‡ªè¡Œä¸‹è½½
+https://pan.baidu.com/s/1Z6Vvxs7xJO3scuUi2vr6Dg æå–ç f01j
 
-ÔËĞĞÖ®ºó´ò¿ªEclipse
-Ñ¡ÔñImport existing project
-µã»÷¡°Browse¡±,Ñ¡Ôñ¡°noobchain¡±ÎÄ¼şºóÔËĞĞnoobchain.javaÎÄ¼ş¼´¿É
+è¯·å…ˆè¿è¡Œchinadaily.py
+åœ¨Pycharmä¸­è¿è¡Œchinadaily.py è¯·å…ˆimportæ‰€æœ‰çš„åŒ…
+ä¹‹åç›´æ¥è¿è¡Œå°±å¯
+
+è¿è¡Œä¹‹åæ‰“å¼€Eclipse
+é€‰æ‹©Import existing project
+ç‚¹å‡»â€œBrowseâ€,é€‰æ‹©â€œnoobchainâ€æ–‡ä»¶åè¿è¡Œnoobchain.javaæ–‡ä»¶å³å¯
